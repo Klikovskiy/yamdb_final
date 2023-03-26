@@ -11,7 +11,7 @@
          
 1. Клонируйте репозиторий и перейдите в него в командной строке:
 ```      
-git clone https://github.com/klikyandex/yamdb_final
+git clone https://github.com/klikovskiy/yamdb_final
 cd yamdb_final
 ```      
 2. Создайте в клонированной директории файл .env. Ниже приведен пример его наполнения:
